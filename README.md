@@ -2,6 +2,10 @@
 
 These are my project files for the FreeCodeCamp Scientific Computing with Python curriculum. Live versions are available on repl.it - feel free to contact me for a link.
 
+## Live Version
+
+This page is currently not deployed.
+
 ## Feedback, Bugs, and Contributions
 
 If you have feedback or a bug report, you can create a GitHub issue or [contact me directly](https://contact.nhcarrigan.com).
