@@ -7,7 +7,7 @@ These are my project files for the FreeCodeCamp Scientific Computing with Python
 
 ## Live Version
 
-This page is currently not deployed.
+This page is currently deployed. [View the live website](http://www.nhcarrigan.com/Scientific-Computing-with-Python/).
 
 ## Feedback and Bugs
 
